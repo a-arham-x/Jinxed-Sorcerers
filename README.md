@@ -3,7 +3,7 @@
 2<sup>nd </sup> semester open-ended project for **Object-Oriented Programming**.
 
 **Note:** *This game is built upon the libgdx framework of Java, offering cross-platform capabilities for its users.*<br />
-**For more info, check the <a href="https://libgdx.com/dev/" target="_blank">documentation</a>.**
+**For more info, check the [documentation](https://libgdx.com/dev/).**
 
 ## About the Game
 
